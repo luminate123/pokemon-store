@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://web-ktujc1odbjp1.up-de-fra1-k8s-1.apps.run-on-seenode.com/'), // TODO: Reemplaza con tu dominio real de Seenode
+  metadataBase: new URL('https://pokemon-store-psi.vercel.app/'), 
   title: {
     default: "Poke Store | Tienda Pokémon TCG",
     template: "%s | Poke Store"
